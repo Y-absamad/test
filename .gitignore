@@ -1,2 +1,3 @@
 # ignore all files end whit .exe
 *.exe
+*.vscode
